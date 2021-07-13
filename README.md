@@ -1,2 +1,3 @@
 # primer-repo-
-una prueba nada especial 
+prueba uno 
+solo estoy practicando :) 
